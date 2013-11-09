@@ -1,11 +1,23 @@
-MySQL Server 5.6
+TroySQL Server 5.6 - based on "The Facebook Patch", a deriviative work of Oracle MySQL 5.6. This software is released under the version 2 of the GNU General Public License. 
 
-This is a release of MySQL, a dual-license SQL database server.
-For the avoidance of doubt, this particular copy of the software 
-is released under the version 2 of the GNU General Public License. 
-MySQL is brought to you by Oracle.
+Additional Software
+---------------------------------------
+This software may include software which is copyrighted to other entities either in part or in whole.   These entities retain rights to those portions of the code.  Such code must use the GPL v2 license, or be deemed to be compatible with such license. 
 
-Copyright (c) 2000, 2013, Oracle and/or its affiliates. All rights reserved.
+In particular, both the BSD two clause license and BSD three clause license are deemed to be compatible with GPL v2.  
+
+IMPORTANT COPYRIGHT INFORMATION
+----------------------------------------
+TroySQL, Shard-Query and Flexviews Copyright (c) 2008,2013, Justin Swanhart. All rights reserved.
+Portions Copyright (c) 2000, 2013, Oracle and/or its affiliates. All rights reserved.
+Portions Copyright (c) 2013, Facebook.
+
+History
+---------------------------------------
+MySQL 5.6 and 5.6 are brought to you by Oracle.
+MySQL 5.1, 5.4, and 6.0 were brought to you by MySQL AB and Sun Corporation.
+MySQL releases prior to and including 5.1 were brought to you by MySQL AB.
+InnoDB was originally brought to you by Innobase.
 
 License information can be found in the COPYING file.
 
